@@ -15,3 +15,9 @@ nav ul{
 nav ul :hover{
     color: rgb(6, 171, 6);
 }
+
+picture > img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}

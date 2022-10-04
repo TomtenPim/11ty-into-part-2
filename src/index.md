@@ -6,7 +6,8 @@ title: Home
 
 # hello worlds
 
-{% image "/images/Alexandro_Var_Herre.png", "Herren", "700px", "200px", "img full"%}
+{% image "./src/images/Alexandro_Var_Herre.png", "photo of my man", "(min-width: 30em) 50vw, 100vw" %}
+{% image "./src/images/Sonic2.jpg", "photo of Sonic 2 on the game gear", "(min-width: 30em) 50vw, 100vw" %}
 
 Världens roligase hellow sida!
 
