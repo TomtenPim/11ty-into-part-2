@@ -1,3 +1,7 @@
+
+@use "reset";
+$basse-size: 1rem;
+
 body{
     background-color: beige;
     max-width: min(80ch, 100vw - 1rem);
